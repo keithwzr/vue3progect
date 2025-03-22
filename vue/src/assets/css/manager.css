@@ -37,6 +37,11 @@
     padding-left: 20px;
 }
 
+.manager-header-right {
+    padding-left: 20px;
+    margin-left: auto;
+}
+
 .manager-main-left {
     width: 200px;
     box-shadow: 0 0 6px rgba(0, 21, 41, .35);
